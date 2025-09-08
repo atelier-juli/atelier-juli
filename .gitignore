@@ -1,6 +1,10 @@
 # Ignore node modules
 node_modules/
 
+# Ignore build outputs
+package.json
+package-lock.json
+
 # Ignore Mac system files
 .DS_Store
 
